@@ -19,7 +19,7 @@ This repository is created to:
 
 * 💼 Build real-world coding experience
 
-🛠 Improve problem-solving and logical thinking skills
+* 🛠 Improve problem-solving and logical thinking skills
 
 
 ## 🐍 Technologies & Tools Used
